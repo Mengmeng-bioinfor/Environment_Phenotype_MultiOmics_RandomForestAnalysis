@@ -46,3 +46,10 @@ All input files should share a common `SampleID`.
 # 2. Merge them by SampleID
 # 3. Fit RandomForest model
 # 4. Output top features and SHAP values
+```
+## Output
+![SHAP_value](results/SHAP%20value%2004.png)
+![feature_importance](results/feature_importance_plot04.png)
+![model_complexity](results/model_complexity_plot04.png)
+![pdp_plot](results/pdp_plot04.png)
+![residual_plot](results/residual_plot04.png)
