@@ -1,0 +1,7 @@
+Mean Squared Error (MSE): 1.9564517955564777
+Root Mean Squared Error (RMSE): 1.3987322100947264
+Mean Absolute Error (MAE): 0.9020919916085345
+R-squared (R²): 0.8590589518468018
+OOB Score (R²): 0.8435613297950272
+Selected Features: ['Species_RBF', 'Spe', 'ST', 'EC', 'NO3', 'HBC', 'AP', 'pH', 'SM']
+Cross-validated R²: 0.835486813468437 ± 0.04052837351705398
